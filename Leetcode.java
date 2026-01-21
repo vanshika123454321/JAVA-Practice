@@ -1,4 +1,4 @@
-// Ques 1
+// Leetcode 1
 
 class Solution {
     public int[] twoSum(int[] nums, int target) {
@@ -28,3 +28,4 @@ class Solution {
         return i+1;
     }
 }
+
